@@ -1,0 +1,6 @@
+Felhasználónév: coach1
+Jelszó: coach123
+
+Felhasználónév: player1
+Jelszó: player123
+

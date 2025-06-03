@@ -1,0 +1,78 @@
+# PHPStorm project files
+.idea/
+
+# NetBeans project files
+nbproject/
+
+# Zend Studio for Eclipse project files
+.buildpath
+.project
+.settings/
+
+# Windows thumbnail cache
+Thumbs.db
+
+# macOS files
+.DS_Store
+
+# Composer vendor directory
+/vendor/
+
+# Composer executable
+composer.phar
+
+# Composer lock file (ha nem szeretnéd verziózni, de opcionális)
+# composer.lock
+
+# Runtime and cache
+/runtime/
+web/assets/
+
+# Environment config
+.env
+
+# PHPUnit
+phpunit.phar
+
+# Node.js
+node_modules/
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+tests/_output/*
+tests/_support/_generated
+
+#vagrant folder
+/.vagrant
+
+/mail/
+/commands/
+/tests/
+/widgets/
+/assets/
+
